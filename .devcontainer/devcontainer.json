@@ -1,4 +1,4 @@
 {
-  "image": "pi4j/pi4j-builder:2.0",
+  "build": { "dockerfile": "Dockerfile" },
   "features": {}
 }
